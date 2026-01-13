@@ -1,4 +1,4 @@
-# Math-Caculation
+# Math-Calculation
 A local education company has approached you to develop a software solution to assist primary school students with their math studies. They need an application that generates random arithmetic problems appropriate for each student's level.
 
 The application should be user-friendly for students from Reception to Year 7 (ages 5 to 12). It will be a text-based program that presents a math problem and allows the student to type their answer. The application will immediately confirm if the answer is correct or incorrect and keep track of the student's overall accuracy, which will be reported at the end of the session with appropriate feedback. The session length should be selectable at the beginning, with options for 10, 20, 30, 40, or 50 questions.
